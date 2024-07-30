@@ -1,2 +1,0 @@
-Hello Fred How Are You Doing?
-Are you cool with the git lesson and command already?
